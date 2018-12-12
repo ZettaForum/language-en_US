@@ -1,0 +1,15 @@
+{
+    "name": "@zetta-forum/language-en-us",
+    "description": "English (United States) Language Pack for ZettaForum",
+    "author": "Xmader",
+    "main": "en_US.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/ZettaForum/language-en_US.git"
+    },
+    "homepage": "https://github.com/ZettaForum/language-en_US#readme",
+    "bugs": {
+        "url": "https://github.com/ZettaForum/language-en_US/issues"
+    },
+    "license": "MIT"
+}
